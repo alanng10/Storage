@@ -18,6 +18,14 @@ Storage node name has valid char list.
 
 Storage path has valid char list.
 
+Storage node name valid char list use char in Lang.
+
+Storage node name valid char list use char in Type Index.
+
+Storage path valid char list use char in Lang.
+
+Storage path valid char list use char in Type Index.
+
 Storage does not need node to alias path.
 
 This is enough element to do any storage for execute plat.
