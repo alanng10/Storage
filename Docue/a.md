@@ -4,6 +4,20 @@ Storage has node.
 
 Storage node is either file or fold.
 
+Storage node is either data or node list.
+
+Storage node list is implemented with data.
+
+Storage path is char list.
+
+Storage path has separator char.
+
+Storage path is composed of node name and separator char.
+
+Storage node name has valid char list.
+
+Storage path has valid char list.
+
 Storage does not need node to alias path.
 
 This is enough element to do any storage for execute plat.
