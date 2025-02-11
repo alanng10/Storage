@@ -26,6 +26,8 @@ Storage path valid char list use char in Lang.
 
 Storage path valid char list use char in Type Index.
 
+Storage has most general and most level delete.
+
 Storage does not need node to alias path.
 
 This is enough element to do any storage for execute plat.
