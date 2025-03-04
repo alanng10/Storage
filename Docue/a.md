@@ -26,9 +26,9 @@ Storage path valid char list use char in Lang.
 
 Storage path valid char list use char in Type Index.
 
-Storage has most general and most level delete.
+Storage has park delete.
 
-Storage has most general and most level delete arch.
+Storage has park delete arch.
 
 Storage does not need node to alias path.
 
